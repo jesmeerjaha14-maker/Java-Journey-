@@ -1,5 +1,5 @@
 # Java-Journey
-# ☕ Java Journey
+#  Java Journey
 
 Welcome to my Java learning repository!
 
